@@ -24,8 +24,6 @@ margin: 15px;
    display: flex;
    gap: 25px;
    list-style: none;
-   float: right;
-   display: center;
    padding: 20px;
    margin-left: auto;
 }
@@ -42,20 +40,22 @@ margin: 15px;
      display: flex;
      justify-content: flex-start;
      padding-top: 50px;
+     margin: 50;
+     width: 100%;
  }
 
 
  #main h2
  {
    font-size: 100px;
-   margin-left: 600px;
+   margin-left: 450px;
  }
 
 
  #main h3
  {
    margin-top: 450px;
-   text-align: center;
+   margin-left: 140px;
    font-size: 60px;
 
  }
@@ -64,50 +64,57 @@ margin: 15px;
  {
    font-size: 40px;
    margin-top: 120px;
-   margin-left: 200px;
+   margin-left: 100px;
  }
 
  #main .welcome
 {
-   margin-left: 600px;
+   margin-left: 420px;
    font-size: 30px;
-   margin-top: -450px;
+   margin-top: -400px;
+   width: 700px;
    
 }
 
 .left-image
 {
    width: 500px;
-   margin-top: -445px;
+   margin-left: -110px;
+   margin-top: -490px;
+   
 }
 
 .right-image
 {
    width: 500px;
-   margin-left: 750px;
+   margin-left: 620px;
    margin-top: -400px;
 }
 
 #main .AboutMe
 {
-   text-align: center;
-   margin: 30px;
-   font-size: 20px;
+   margin-left: 80px;
+   width: 900px;
+   font-size: 23px;
+   display: black;
+   padding: 0;
 }
 
 #main .achievement
 {
    width: 600px;
    font-size: 25px;
-   margin-left: 80px;
+   margin-left: -50px;
 }
 
 #main footer
 {
-   padding: 15px;
+   padding: 20px;
    display: flex;
    background-color: rgb(43, 43, 41);
-   margin-top: 250px;
+   margin-top: 100px;
+   margin-left: -100px;
+   margin-bottom: -100px;
    
    
 }
@@ -145,45 +152,44 @@ margin: 15px;
 }
 #main h5
 {
-   margin-left: 200px;
+   margin-left: 20px;
    font-size: 85px;
    margin-top: 0px;
 }
 .skills
 {
-   margin-left: 50px;
+   width: 650px;
    margin-top: -80px;
    font-size: 18px;
 }
 .baseball
 {
    width: 550px;
-   margin-left: 700px;
+   margin-left: 605px;
    margin-top: -200px;
 }
 #main h6
 {
    font-size: 40px;
-   margin-left: 170px;
+   margin-left: 80px;
    margin-top: 70px;
 }
 .tournament
 {
    font-size: 18px;
    margin-top: -80px;
-   margin-left: 115px;
+   margin-left: 20px;
 }
 #main h1
 {
    font-size: 40px;
    margin-top: -230px;
-   margin-left: 800px;
+   margin-left: 700px;
 }
 .teamwork
 {
    font-size: 18px;
-   margin-top: -18px;
-   margin-left: 720px;
+   margin-left: 650px;
 }
 .work
 {
