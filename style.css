@@ -185,44 +185,69 @@ margin: 15px;
    margin-top: -18px;
    margin-left: 720px;
 }
-.bar
-{
-   width: 420px;
-   margin-top: -270px;
-   margin-left: 750px;
-}
-.beer
-{
-   width: 450px;
-   margin-top: -300px;
-   margin-left: 50px;
-}
-.pokies
-{
-   width:400px;
-   margin-left: 780px;
-   margin-top: -300px;
-}
 .work
 {
-   font-size: 65px;
-   margin-left: 50px;
+   font-size: 80px;
+   margin-top: -25px;
+   white-space: nowrap;
+}
+#maincontainer
+{
+padding: 40px;
 }
 .mywork
 {
-   font-size: 20px;
-   margin-top: 120px;
-   margin-left: 80px;
+display: flex;
+margin-top: 150px;
+margin-left: -550px;
+gap: 150px;
 }
-.beer1
+.mywork img
 {
-   margin-left: 650px;
-   margin-top: 150px;
-   font-size: 23px;
+   width: 400px;
+   height: 350px;
+   
 }
-.pokie1
+.mywork p
 {
+font-size: 23px;
+margin-top: 65px;
+}
+.beer
+{
+display: flex;
+margin-top: 290px;
+margin-left: -500px;
+gap: 600px;
+
+}
+.beer img
+{
+   width: 400px;
+   height: 350px;
+}
+.beer p
+{
+   margin-top: 370px;
+   margin-left: -600px;
    font-size: 23px;
-   margin-top: 150px;
-   margin-left: 90px;
+
+}
+.pokies
+{
+display: flex;
+margin-top: 500px;
+margin-left: -530px;
+gap: 300px;
+}
+.pokies img
+{
+   width: 400px;
+   height: 350px; 
+}
+.pokies p
+{
+margin-top: 560px;
+margin-left: -160px;
+font-size: 23px;
 }
