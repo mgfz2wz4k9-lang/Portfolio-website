@@ -1,0 +1,228 @@
+body
+ {
+    margin: 0;
+    background-color:rgb(26, 25, 25);
+    color: white;
+ }
+
+
+#navbar
+ {
+   display: flex;
+   background-color: rgb(31, 30, 30);
+ }
+
+
+ #navbar h1
+ {
+margin: 15px;
+ }
+
+
+ #navbar ul
+{
+   display: flex;
+   gap: 25px;
+   list-style: none;
+   float: right;
+   display: center;
+   padding: 20px;
+   margin-left: auto
+}
+
+
+ a 
+ {
+    color: white;
+ }
+
+
+ #maincontainer
+ {
+     display: flex;
+     justify-content: flex-start;
+     padding-top: 50px;
+ }
+
+
+ #main h2
+ {
+   font-size: 100px;
+   margin-left: 600px;
+ }
+
+
+ #main h3
+ {
+   margin-top: 450px;
+   text-align: center;
+   font-size: 60px;
+
+ }
+ 
+ #main h4
+ {
+   font-size: 40px;
+   margin-top: 120px;
+   margin-left: 200px;
+ }
+
+ #main .welcome
+{
+   margin-left: 600px;
+   font-size: 30px;
+   margin-top: -450px;
+   
+}
+
+.left-image
+{
+   width: 500px;
+   margin-top: -445px;
+}
+
+.right-image
+{
+   width: 500px;
+   margin-left: 750px;
+   margin-top: -400px;
+}
+
+#main .AboutMe
+{
+   text-align: center;
+   margin: 30px;
+   font-size: 20px;
+}
+
+#main .achievement
+{
+   width: 600px;
+   font-size: 25px;
+   margin-left: 80px;
+}
+
+#main footer
+{
+   padding: 15px;
+   display: flex;
+   background-color: rgb(43, 43, 41);
+   margin-top: 250px;
+   
+   
+}
+
+.instagram
+{
+   width: 80px;
+   margin-top:30px;
+   padding: 10px;
+}
+.tiktok
+{
+   width: 80px;
+   margin-top: 30px;
+   padding: 10px;
+}
+.linkedin
+{
+   width: 80px;
+   margin-top: 30px;
+   padding: 10px;
+}
+.Github
+{
+   width: 150px;
+   margin-top: 30px;
+   padding: 10px;
+}
+.date
+{
+   text-align: right;
+   margin-left: 600px;
+   font-size: 20px;
+   margin-top: 90px;
+}
+#main h5
+{
+   margin-left: 200px;
+   font-size: 85px;
+   margin-top: 0px;
+}
+.skills
+{
+   margin-left: 50px;
+   margin-top: -80px;
+   font-size: 18px;
+}
+.baseball
+{
+   width: 550px;
+   margin-left: 700px;
+   margin-top: -200px;
+}
+#main h6
+{
+   font-size: 40px;
+   margin-left: 170px;
+   margin-top: 70px;
+}
+.tournament
+{
+   font-size: 18px;
+   margin-top: -80px;
+   margin-left: 115px;
+}
+#main h1
+{
+   font-size: 40px;
+   margin-top: -230px;
+   margin-left: 800px;
+}
+.teamwork
+{
+   font-size: 18px;
+   margin-top: -18px;
+   margin-left: 720px;
+}
+.bar
+{
+   width: 420px;
+   margin-top: -270px;
+   margin-left: 750px;
+}
+.beer
+{
+   width: 450px;
+   margin-top: -300px;
+   margin-left: 50px;
+}
+.pokies
+{
+   width:400px;
+   margin-left: 780px;
+   margin-top: -300px;
+}
+.work
+{
+   font-size: 65px;
+   margin-left: 50px;
+}
+.mywork
+{
+   font-size: 20px;
+   margin-top: 120px;
+   margin-left: 80px;
+}
+.beer1
+{
+   margin-left: 650px;
+   margin-top: 150px;
+   font-size: 23px;
+}
+.pokie1
+{
+   font-size: 23px;
+   margin-top: 150px;
+   margin-left: 90px;
+}
