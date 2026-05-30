@@ -38,7 +38,7 @@ margin: 15px;
  #maincontainer
  {
      display: flex;
-     justify-content: flex-start;
+     
      padding-top: 50px;
      margin: 50;
      width: 100%;
@@ -115,8 +115,6 @@ margin: 15px;
    margin-top: 100px;
    margin-left: -100px;
    margin-bottom: -100px;
-   
-   
 }
 
 .instagram
@@ -261,4 +259,68 @@ margin: 15px;
     width: 430px;
     height: 380px;
     flex-shrink: 0;
+}
+.gym-pic
+{
+   width:600px;
+   height: 350px;
+   margin-left: 10px;
+}
+.gym
+{
+   font-size: 80px;
+   margin: 0 0 10px 0;
+   margin-left: 10px;
+}
+.GYM
+{
+  font-size: 40px;
+  margin-top: -1px;
+  margin-left: 10px;
+}
+.reason
+{
+   font-size: 23px;
+   padding: 10px;
+}
+.meal-pic
+{
+   width:600px;
+   height: 350px;
+   margin-left: 10px;
+}
+.MEAL
+{
+   font-size: 40px;
+   margin-top: -1px;
+   margin-left: 10px;
+}
+.meal2
+{
+   font-size: 23px;
+   padding: 10px;
+   margin-top: -20px;
+}
+.Contact-header
+{
+   font-size: 80px;
+   margin-top: -5px;
+}
+#contactform input
+{
+   width: 650px;
+}
+#contactform textarea
+{
+   width: 650px;
+}
+#contactform
+{
+   margin-left: 600px;
+}
+#contactform button
+{
+   width: 130px;
+   height: 30px;
+   background-color: rgb(138, 133, 133);
 }
